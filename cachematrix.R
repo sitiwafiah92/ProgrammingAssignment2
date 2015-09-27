@@ -10,7 +10,6 @@
 
 
 # Function: makeCacheMatrix
-   
 # Description: Store the matrix x an its inverse in the cache. 
 # cache <- makeCacheMatrix(matrix) creates an initialized cache
 
